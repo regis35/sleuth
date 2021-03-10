@@ -1,0 +1,10 @@
+
+
+https://cloud.spring.io/spring-cloud-sleuth/reference/html/#sampling
+
+https://cloud.spring.io/spring-cloud-static/spring-cloud-sleuth/1.1.1.RELEASE/#_feign
+
+https://www.liksi.tech/2020/11/26/au-secours-mon-resttemplate-va-etre-deprecated/
+
+curl http://localhost:8081/hello/a
+curl http://localhost:8081/hello/awf

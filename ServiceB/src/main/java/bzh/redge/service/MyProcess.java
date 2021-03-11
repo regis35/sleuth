@@ -1,5 +1,6 @@
 package bzh.redge.service;
 
+import lombok.extern.slf4j.Slf4j;
 import org.slf4j.ILoggerFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -9,9 +10,8 @@ import org.springframework.stereotype.Component;
 import java.util.concurrent.TimeUnit;
 
 @Component
+@Slf4j
 public class MyProcess {
-
-    private static Logger log = LoggerFactory.getLogger(MyProcess.class);
 
     @Async
     public void helloAsync() {

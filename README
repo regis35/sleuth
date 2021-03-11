@@ -8,3 +8,9 @@ https://www.liksi.tech/2020/11/26/au-secours-mon-resttemplate-va-etre-deprecated
 
 curl http://localhost:8081/hello/a
 curl http://localhost:8081/hello/awf
+
+
+
+Admin ui Rabbit
+http://localhost:15672/
+guest:guest
